@@ -1,2 +1,2 @@
 # GROUP3_PROJECT
-Building and our project, which is for checking symptoms.
+We are building a system that self diagnoses symptoms.
